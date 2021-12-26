@@ -4,7 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2" />
+        <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/drawable/shape_rectangle_blue_gray.xml" value="0.20729166666666668" />
+        <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/drawable/shape_rectangle_pink.xml" value="0.20729166666666668" />
         <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/layout/activity_onboarding_one.xml" value="0.25" />
+        <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/layout/activity_onboarding_three.xml" value="0.28020833333333334" />
+        <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/layout/activity_onboarding_two.xml" value="0.28020833333333334" />
+        <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/layout/activity_onboardingo_one.xml" value="0.33" />
         <entry key="..\:/Kotlin Projects/Movie-Application/app/src/main/res/layout/activity_splash_screen.xml" value="0.278125" />
       </map>
     </option>
