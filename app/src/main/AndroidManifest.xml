@@ -13,6 +13,12 @@
             android:name=".onboarding.OnboardingOneActivity"
             android:exported="false" />
         <activity
+            android:name=".onboarding.OnboardingTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnboardingThreeActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
